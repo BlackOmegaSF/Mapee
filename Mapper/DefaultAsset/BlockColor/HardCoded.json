@@ -1002,6 +1002,7 @@
     ["minecraft:tripwire", "#1B818181"],
     ["minecraft:tripwire_hook", "#2D8E8576"],
     ["minecraft:tuff", "#FF6C6D66"],
+	["minecraft:tuff_bricks", "#FF6C6D66"],
     ["minecraft:wet_sponge", "#FFABB546"],
     ["minecraft:petrified_oak_slab", "#FFA2824E"],
     ["minecraft:oak_button", "#19A2824E"],
