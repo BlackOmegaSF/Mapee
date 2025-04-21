@@ -1,0 +1,7 @@
+[
+  [["minecraft:brain_coral", []], ["minecraft:brain_coral", [["waterlogged", "true"]]]],
+  [["minecraft:bubble_coral", []], ["minecraft:bubble_coral", [["waterlogged", "true"]]]],
+  [["minecraft:fire_coral", []], ["minecraft:fire_coral", [["waterlogged", "true"]]]],
+  [["minecraft:horn_coral", []], ["minecraft:horn_coral", [["waterlogged", "true"]]]],
+  [["minecraft:tube_coral", []], ["minecraft:tube_coral", [["waterlogged", "true"]]]]
+]

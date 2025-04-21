@@ -1,0 +1,8 @@
+[
+  [["minecraft:chain", [["waterlogged", "true"]]], ["minecraft:chain", [["axis", "y"], ["waterlogged", "true"]]]], 
+  [["minecraft:chain", [["waterlogged", "false"]]], ["minecraft:chain", [["axis", "y"], ["waterlogged", "false"]]]], 
+  [["minecraft:lantern", [["hanging", "true"]]], ["minecraft:lantern", [["hanging", "true"], ["waterlogged", "false"]]]], 
+  [["minecraft:lantern", [["hanging", "false"]]], ["minecraft:lantern", [["hanging", "false"], ["waterlogged", "false"]]]], 
+  [["minecraft:soul_lantern", [["hanging", "true"]]], ["minecraft:soul_lantern", [["hanging", "true"], ["waterlogged", "false"]]]], 
+  [["minecraft:soul_lantern", [["hanging", "false"]]], ["minecraft:soul_lantern", [["hanging", "false"], ["waterlogged", "false"]]]]
+]
