@@ -891,12 +891,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_BD5D1914012A45F5AF0402CA27339560"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_BE83E8F127DE449FA4B8D98E263DD9B6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -1723,7 +1717,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_27B1644D4DC14BE797C56503F0E795F0"
             {
-            "SourcePath" = "8:..\\Mapper.Gui\\bin\\Release\\net7.0-windows\\publish\\win-x64\\wpfgfx_cor3.dll"
+            "SourcePath" = "8:C:\\Program Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\\7.0.20\\wpfgfx_cor3.dll"
             "TargetName" = "8:wpfgfx_cor3.dll"
             "Tag" = "8:"
             "Folder" = "8:_FA0B1AA268854D1099BE3FCF1006D78E"
@@ -2203,7 +2197,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_39A745690ED8455691C8A460A9E1702C"
             {
-            "SourcePath" = "8:..\\Mapper.Gui\\bin\\Release\\net7.0-windows\\publish\\win-x64\\vcruntime140_cor3.dll"
+            "SourcePath" = "8:C:\\Program Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\\7.0.20\\vcruntime140_cor3.dll"
             "TargetName" = "8:vcruntime140_cor3.dll"
             "Tag" = "8:"
             "Folder" = "8:_FA0B1AA268854D1099BE3FCF1006D78E"
@@ -3223,7 +3217,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7B10DF5F39B44865A72F76712BFB1A5D"
             {
-            "SourcePath" = "8:..\\Mapper.Gui\\bin\\Release\\net7.0-windows\\publish\\win-x64\\D3DCompiler_47_cor3.dll"
+            "SourcePath" = "8:C:\\Program Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\\7.0.20\\D3DCompiler_47_cor3.dll"
             "TargetName" = "8:D3DCompiler_47_cor3.dll"
             "Tag" = "8:"
             "Folder" = "8:_FA0B1AA268854D1099BE3FCF1006D78E"
@@ -3703,7 +3697,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_950B9432420342E8A67E63FD025733CF"
             {
-            "SourcePath" = "8:..\\Mapper.Gui\\bin\\Release\\net7.0-windows\\publish\\win-x64\\PenImc_cor3.dll"
+            "SourcePath" = "8:C:\\Program Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\\7.0.20\\PenImc_cor3.dll"
             "TargetName" = "8:PenImc_cor3.dll"
             "Tag" = "8:"
             "Folder" = "8:_FA0B1AA268854D1099BE3FCF1006D78E"
@@ -3763,7 +3757,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_991D118887C348EF90AE81496CA3AFEE"
             {
-            "SourcePath" = "8:..\\Mapper.Gui\\bin\\Release\\net7.0-windows\\publish\\win-x64\\WebView2Loader.dll"
+            "SourcePath" = "8:..\\Mapper.Gui\\bin\\Release\\net7.0-windows\\publish\\win-x64\\runtimes\\win-x64\\native\\WebView2Loader.dll"
             "TargetName" = "8:WebView2Loader.dll"
             "Tag" = "8:"
             "Folder" = "8:_FA0B1AA268854D1099BE3FCF1006D78E"
@@ -3943,7 +3937,7 @@
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A9EA05A20C2F4D69B2980CD805D5B410"
             {
-            "SourcePath" = "8:..\\Mapper.Gui\\bin\\Release\\net7.0-windows\\publish\\win-x64\\PresentationNative_cor3.dll"
+            "SourcePath" = "8:C:\\Program Files\\dotnet\\shared\\Microsoft.WindowsDesktop.App\\7.0.20\\PresentationNative_cor3.dll"
             "TargetName" = "8:PresentationNative_cor3.dll"
             "Tag" = "8:"
             "Folder" = "8:_FA0B1AA268854D1099BE3FCF1006D78E"
@@ -4187,26 +4181,6 @@
             "TargetName" = "8:Scan.json"
             "Tag" = "8:"
             "Folder" = "8:_FBF86AC46A95478A8DB2BCDE4A10FABD"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BD5D1914012A45F5AF0402CA27339560"
-            {
-            "SourcePath" = "8:..\\Mapper.Gui\\bin\\Release\\net7.0-windows\\publish\\win-x64\\LICENSE.txt"
-            "TargetName" = "8:LICENSE.txt"
-            "Tag" = "8:"
-            "Folder" = "8:_FA0B1AA268854D1099BE3FCF1006D78E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
